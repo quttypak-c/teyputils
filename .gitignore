@@ -1,0 +1,18 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files & Libraries
+*.o
+*.a
+*.so
+*.dylib
+
+# Editor & OS temporary files
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
